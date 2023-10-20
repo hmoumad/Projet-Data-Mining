@@ -11,12 +11,17 @@ Use pip to install the selenium package. Python 3 has pip available in the stand
 
 > pip install Selenium
 
+You may consider using virtualenv to create isolated Python environments. Python 3 has venv which is almost the same as virtualenv.
+
+You can also download Python bindings for Selenium from the PyPI page for selenium package. and install manually.
+
 ## Instructions for Windows users
 <ul>
 <li> Install Python 3 using the MSI available in python.org download page.</li>
 <li>Start a command prompt using the cmd.exe program and run the pip command as given below to install selenium.</li>
 </ul>
 To access and use the application,donwoload or clone the repository and then run the command below.
+
 > C:\Python39\Scripts\pip.exe install selenium
 
 
