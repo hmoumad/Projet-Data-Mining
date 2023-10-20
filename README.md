@@ -3,10 +3,7 @@
 Dans le cadre de nos projets académiques visant à réaliser une analyse de données (Data Mining), nous avons développé un système ayant pour but d'identifier la banque avec le plus grand nombre de clients satisfaits à Rabat.
 
 
-![Future engineer in Data Science](https://github.com/hmoumad/hmoumad/blob/main/LinkedIn_Banner.png)
-
-
-<img src="https://ocdn.eu/pulscms-transforms/1/t1nk9kpTURBXy9mYmJkOTFkZDE3ZjA2NmFjNGZjMmU0ZjFjMmQxMmMwOC5qcGeSlQMAAM0Cpc0BfZMFzQMWzQGugaEwBQ" alt="screenshot of the Swahili News Classifier App" />
+![Future engineer in Data Science](https://github.com/hmoumad/hmoumad/blob/main/LinkedIn_image.png)
 
 
 ## Installation
