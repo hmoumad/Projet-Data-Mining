@@ -1,6 +1,6 @@
 ## Project-Data-Mining
 
-Dans le cadre de nos projets académiques visant à réaliser une analyse de données (Data Mining), nous avons développé un système ayant pour but d'identifier la banque avec le plus grand nombre de clients satisfaits à Rabat.
+As part of our academic projects aimed at carrying out data analysis (Data Mining), we have developed a system aimed at identifying the bank with the greatest number of satisfied customers in Rabat.
 
 
 ![Future engineer in Data Science](https://github.com/hmoumad/hmoumad/blob/main/image.png)
