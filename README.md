@@ -6,15 +6,39 @@ Dans le cadre de nos projets académiques visant à réaliser une analyse de don
 ![Future engineer in Data Science](https://github.com/hmoumad/hmoumad/blob/main/image.png)
 
 
-## Installation
-Install all streamlit requirements by run the following command
+## Installing Python bindings for Selenium
+Use pip to install the selenium package. Python 3 has pip available in the standard library. Using pip, you can install selenium like this:
 
-> pip install requirements.txt
+> pip install Selenium
 
-## Run Streamlit
-
+## Instructions for Windows users
+<ul>
+<li> Install Python 3 using the MSI available in python.org download page.</li>
+<li>Start a command prompt using the cmd.exe program and run the pip command as given below to install selenium.</li>
+</ul>
 To access and use the application,donwoload or clone the repository and then run the command below.
-> streamlit run app.py
+> C:\Python39\Scripts\pip.exe install selenium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Finally browse the link provided in your browser.
 
