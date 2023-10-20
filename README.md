@@ -2,6 +2,8 @@
 
 As part of our academic projects aimed at carrying out data analysis (Data Mining), we have developed a system aimed at identifying the bank with the greatest number of satisfied customers in Rabat.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davisy/financial-inclusion-in-africa-app/app.py)
+![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 ![Future engineer in Data Science](https://github.com/hmoumad/hmoumad/blob/main/image.png)
 
