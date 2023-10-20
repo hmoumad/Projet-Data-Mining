@@ -24,47 +24,7 @@ To access and use the application,donwoload or clone the repository and then run
 
 > C:\Python39\Scripts\pip.exe install selenium
 
+Now you can run your test scripts using Python. For example, if you have created a Selenium based script and saved it inside C:\my_selenium_script.py, you can run it like this:
 
+> C:\Python39\python.exe C:\my_selenium_script.py
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Finally browse the link provided in your browser.
-
-## Streamlit Cloud
-
-The application has been deployed in the Streamlit Cloud.You can access here: [https://share.streamlit.io/davisy/financial-inclusion-in-africa-app/app.py](https://share.streamlit.io/davisy/financial-inclusion-in-africa-app/app.py)
-
-
-
-## Issues 
-
-Incase you have any difficulties or issues while trying to run the app you can raise it on the issues section. 
-
-## Pull Requests
-
-If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
-
-## Give it a Star
-
-If you find this repo useful , give it a star so as many people can get to know it.
-
-## Credits
-
-All the credits to [Davis David ](https://twitter.com/Davis_McDavid)
